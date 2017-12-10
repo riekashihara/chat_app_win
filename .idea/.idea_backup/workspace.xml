@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed0ff700-e79a-4565-a42d-14a8213f5d56" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.idea_backup/.generators" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.idea_backup/.rakeTasks" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.idea_backup/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.idea_backup/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.idea_backup/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.idea_backup/sample.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.idea_backup/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.idea_backup/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -351,12 +343,12 @@
       <workItem from="1511242046748" duration="8846000" />
       <workItem from="1512915965328" duration="1225000" />
       <workItem from="1512917271485" duration="3400000" />
-      <workItem from="1512920823774" duration="1384000" />
+      <workItem from="1512920823774" duration="1191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41349000" />
+    <option name="totallyTimeSpent" value="41156000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
