@@ -10,6 +10,7 @@ $(function(){
             location.reload();
         }).catch(function(error) {
             // Handle Errors here.
+            console.log('エラー')
             var errorCode = error.code;
             var errorMessage = error.message;
             // The email of the user's account used.
