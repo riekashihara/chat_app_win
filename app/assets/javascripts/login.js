@@ -36,8 +36,17 @@ $(function(){
             console.log(email)
             console.log(password)
         });
-        $( "#dialog" ).dialog();
-        location.reload();
+        //ダイアログ表示
+        //leftの値 = (ウィンドウ幅 -コンテンツ幅) ÷ 2
+        var leftPosition = (($(window).width() - $("#sample-dialog").outerWidth(true)) / 2);
+        //CSSを変更
+        $("#member-dialog").css({"left": leftPosition + "px"});
+        //ダイアログを表示する
+        $("#member-dialog").show();
+    });
+    //閉じるボタンで非表示
+    $(".dialog-close").on("click", function(){
+        $(this).parents(".dialog").hide();
     });
 
     $('#login').click(function() {
