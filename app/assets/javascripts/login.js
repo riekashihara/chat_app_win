@@ -36,6 +36,7 @@ $(function(){
             console.log(email)
             console.log(password)
         });
+        $( "#dialog" ).dialog();
         location.reload();
     });
 
