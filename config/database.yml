@@ -24,6 +24,6 @@ production:
   adapter: postgresql
   encoding: unicode
   pool: 5
-  database: sample_production
-  username: sample
+  database: chat_app_production
+  username: chat_app
   password: <%=ENV['MESSAGE-BOARD_DATABASE_PASSWORD']%>
